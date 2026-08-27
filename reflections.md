@@ -1,0 +1,1 @@
+the way I went about the assignment was that I first created the repo in github then i created the first branch in and called it feature/header
